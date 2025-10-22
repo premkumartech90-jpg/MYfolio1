@@ -79,7 +79,7 @@
             font-size: 4rem;
             font-weight: 300;
             margin-bottom: 20px;
-            color: rgba(255, 255, 255, 0.3);
+            color: blue;
         }
 
         .hero-text h2 {
@@ -669,4 +669,5 @@
 
         @keyframes fillBar {
             from { width: 0%; }
+
         }
